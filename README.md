@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Ahmed3tef.
 - 👀 I’m interested in web dev.
 - 🌱 I’m currently learning Next.js.
-- 📫 Reach me on facebook and linkedin throw these links:
-- https://www.facebook.com/A7mEeDO0O
-- https://www.linkedin.com/in/ahmed-atef-alattafy/
 
 <!---
 Ahmed3tef/Ahmed3tef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
